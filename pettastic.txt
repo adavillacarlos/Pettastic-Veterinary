@@ -1,0 +1,13 @@
+Pettastic Veterinary Services
+
+Pettastic is a web application that helps to store and manage information and procedure that vets and pet owners must deal with every day.
+
+The pages are made by HTML, the database is handled by MySQL, and the application logic is controlled by PHP.
+
+Features of the Application: 
+The admin can keep track of the patient’s information such as the pets’ records, owners’ information, appointment dates and time. The users can also appoint their veterinary services through this website and check their pets’ records and their appointment schedules.
+
+Contributors
+* Corral, Marc John 
+* Rabanes, Fleurdelisse H. 
+* Villacarlos, Ada Pauline P.
